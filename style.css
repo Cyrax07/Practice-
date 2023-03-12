@@ -1,0 +1,118 @@
+.nav-link{
+    color: rgba(0,0,0,0.5);
+}
+#hcol{
+    font-size: 48px;
+    color: #fff;
+    font-family: 'open sans',sans-serif;
+    font-weight: 700;
+    margin-top: 180px;
+}
+#pcol{
+    /* color: white; */
+    color: #fff;
+    font-size: 18px;
+    line-height: 150%;
+    font-family: 'open sans',sans-serif;
+    padding: 30px 0;
+}
+.form-control{
+    width: 35%;
+}
+#subscribe_btn_17{
+    color: white;
+}
+.bun{
+    color: #EEEEEE;
+    margin-top: 35px;
+    font-size: 13px;
+    font-family: 'open sans',sans-serif;
+}
+#idea1{
+    background-color: #f7f7f7;
+    padding-bottom: 25px;
+}
+#idea2{
+    color: #333;
+    /* margin-top: 30px; */
+    padding: 35px;
+    font-size: 28px;
+    font-family: 'open sans',sans-serif;
+}
+#idea3{
+    color: gray;
+    font-size: 20px;
+    margin-top: 15px ;
+    font-family: 'open sans',sans-serif;
+}
+#idea4{
+    color: #a9a9a9;
+    font-size: 16px;
+    /* padding-bottom: 50px; */
+    font-family: 'open sans',sans-serif;
+}
+.p1{
+    font-family: 'open sans',sans-serif;
+    color: #000;
+    font-size: 28px;
+    margin-top: 25px;
+}
+.p2{
+    color: rgb(191, 144, 0);
+    font-size: 20px;
+}
+.p3{
+    color: rgb(136, 136, 136);
+    font-size: 16px;
+}
+.p4{
+    color: rgb(136, 136, 136);
+    font-size: 16px;
+    margin-top: 25px;
+}
+#idea2{
+    background-color: rgb(238, 238, 238);
+    /* width: 100%; */
+}
+.p5{
+    padding-top: 60px;
+    font-family: 'open sans',sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: #000;
+}
+.p6{
+    color: #a9a9a9;
+    font-size: 18px;
+    font-family: 'open sans',sans-serif;
+    margin-top: 16px;
+}
+.p7{
+    color: rgb(191, 144, 0);
+    font-size: 14px;
+    margin-top: 45px;
+}
+.p8{
+    /* color: rgb(255, 255, 255); */
+    font-size: 28px;
+}
+.p9{
+    /* color: rgb(238, 238, 238); */
+    font-size: 18px;
+}
+.p10{
+    color: rgb(241, 194, 50);
+    font-size: 36px;
+}
+.p11{
+    /* color: rgb(255, 255, 255); */
+    color: black;
+    font-size: 13px;
+}
+.p12{
+    margin-top: 70px;
+}
+.p13{
+    color: rgb(127, 96, 0);
+    font-size: 14px;
+}
